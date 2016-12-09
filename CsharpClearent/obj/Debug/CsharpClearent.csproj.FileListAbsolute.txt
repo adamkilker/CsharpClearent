@@ -1,0 +1,5 @@
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CsharpClearent\bin\Debug\CsharpClearent.dll
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CsharpClearent\bin\Debug\CsharpClearent.pdb
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CsharpClearent\obj\Debug\CsharpClearent.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CsharpClearent\obj\Debug\CsharpClearent.dll
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CsharpClearent\obj\Debug\CsharpClearent.pdb

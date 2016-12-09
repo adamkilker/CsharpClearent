@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpClearent", "CsharpClearent\CsharpClearent.csproj", "{4F2B7C2C-72CA-44F0-B279-E55FE9F96DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardTests", "CreditCardTests\CreditCardTests.csproj", "{A93A2186-A071-430A-8E1C-70886B850CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2B7C2C-72CA-44F0-B279-E55FE9F96DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2B7C2C-72CA-44F0-B279-E55FE9F96DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2B7C2C-72CA-44F0-B279-E55FE9F96DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2B7C2C-72CA-44F0-B279-E55FE9F96DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A93A2186-A071-430A-8E1C-70886B850CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93A2186-A071-430A-8E1C-70886B850CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93A2186-A071-430A-8E1C-70886B850CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93A2186-A071-430A-8E1C-70886B850CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

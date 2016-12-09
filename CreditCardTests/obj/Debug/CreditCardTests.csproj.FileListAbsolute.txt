@@ -1,0 +1,8 @@
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\obj\Debug\CreditCardTests.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\bin\Debug\CreditCardTests.dll
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\bin\Debug\CreditCardTests.pdb
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\bin\Debug\CsharpClearent.dll
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\bin\Debug\CsharpClearent.pdb
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\obj\Debug\CreditCardTests.dll
+c:\users\adam\documents\visual studio 2015\Projects\CsharpClearent\CreditCardTests\obj\Debug\CreditCardTests.pdb
